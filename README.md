@@ -24,10 +24,9 @@ Currently a 3rd year undergraduate at Jalpaiguri Government Engineering College 
 
 ## 📌 Featured Projects
 
-- [Learn Python for Backend](https://github.com/rakibul9382/learn_python_for_backend)
+- [Hotel-Management-System](https://hostelmanagement-production-8534.up.railway.app/)
 - [To-Do List App](https://github.com/rakibul9382/to-do-list)
 - [Personal Portfolio](https://github.com/rakibul9382/skrakibul-portfolio)
-- [Basic JavaScript](https://github.com/rakibul9382/basic_javascript)
 
 ---
 
